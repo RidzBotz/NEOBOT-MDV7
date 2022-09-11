@@ -1,5 +1,5 @@
 {
-"name": "BOTSTORE",
+"name": "Miya-MDོ",
 "version": "1.0.0",
 "description": "Bot WhatsApp Baileys Multi Device.",
 "main": "main.js",
@@ -10,7 +10,7 @@
 "test": "echo \"Error: no test specified\" && exit 1",
 "start": "node main.js"
 },
-"author": "Lexxy Official",
+"author": "Ridz-Ofcོ",
 "license": "MIT",
 "dependencies": {
 "@adiwajshing/baileys": "4.1.0",
